@@ -2,12 +2,13 @@
 
    首先，当然很感谢大家百忙中点击我这个[博客](hhttps://justforheart.github.io/spiders/). 
 
+话说，这个博客只是用来偶尔更新一下自己在爬的经历。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 说说为什么要爬
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+其实很简单，就是不想跟别人一样走，所以用爬的。难道我要告诉你，我要把网上的妹子都爬一遍？所以说，人呐，理想还是要有的，万一实现了呢？
 
 ```markdown
 Syntax highlighted code block
