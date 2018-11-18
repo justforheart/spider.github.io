@@ -9,7 +9,7 @@
 title: 红红仍是你
 author: Hong
 description: > # this means to ignore newlines until "baseurl:"
-  直到爬不起来
+  直到爬不起来，我依然还在！
 permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: "/page/:num/"
