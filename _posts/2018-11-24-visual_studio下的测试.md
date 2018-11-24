@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: test
 ---
 以下为正文内容。
 <font color="green">
